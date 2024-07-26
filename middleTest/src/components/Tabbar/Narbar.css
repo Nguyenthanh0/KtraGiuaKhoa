@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+
+.narbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.narbar>input {
+    background-color: #374151;
+    padding: 15px 100px 15px 18px;
+    border-radius: 37px;
+    color:
+        #868686;
+}
+
+p {
+    color:
+        #868686;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: #868686;
+}

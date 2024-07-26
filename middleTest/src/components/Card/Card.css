@@ -1,0 +1,17 @@
+.massage {
+    position: absolute;
+    bottom: 140px;
+    left: 325px;
+    width: 500px;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 64px;
+    font-weight: 600;
+
+}
+
+p {
+    color: #FFFF;
+}
